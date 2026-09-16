@@ -27,7 +27,7 @@ python cannon_ball.py
 
 Controls:
 - Space — fire the cannon
-- Mouse (click and drag, then release) — aim and set shot velocity
+- Mouse (click and drag, then release), aim and set shot velocity
 - G — show/hide grid
 - Q — quit
 
